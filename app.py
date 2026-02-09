@@ -2,7 +2,7 @@ import tkinter as tk
 
 # Main window
 root = tk.Tk()
-root.title("Internalveil's Calculator")
+root.title("Shaftys' Calculator")
 root.geometry("400x500")
 root.resizable(False, False)
 
